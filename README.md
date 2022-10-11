@@ -1,3 +1,6 @@
+# About
+When the game crashes, an autosave of the world will be created so you don't lose progress
+
 # Installing
 follow [this tutorial](https://github.com/Plasma-Modding/Modding-Wiki/wiki/Installing-Plasma-Mods/) to set up mods on your plasma game and install this mod
 
