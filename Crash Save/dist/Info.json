@@ -1,0 +1,9 @@
+{
+	"Id": "Crash Save",
+	"DisplayName": "Crash Save",
+	"Author": "Hippolippo",
+	"GameVersion": "0.1.75",
+	"Version": "1.0.0",
+	"ManagerVersion": "0.23.5.0",
+	"EntryMethod": "Crash_Save.Main.Load"
+}
